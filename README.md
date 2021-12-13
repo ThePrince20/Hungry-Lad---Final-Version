@@ -1,2 +1,2 @@
-# Hungry Lad - Final Version
- This is my final game with UI, Particle explosion and Sound
+# Hungry-Lad---Alpha-Version
+ This is the alpha version of my Hungry Lad game.
