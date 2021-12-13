@@ -1,2 +1,2 @@
-# Hungry-Lad---Alpha-Version
- This is the alpha version of my Hungry Lad game.
+# Hungry-Lad---Final-Version
+ This is the final version of my Hungry Lad game.
